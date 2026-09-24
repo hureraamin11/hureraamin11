@@ -73,17 +73,25 @@ MedTech Nexus is my technology initiative focused on exploring and developing in
 
 📚 Currently Learning
 
-AI/ML
-Agentic AI
-RAG
-APIs
-AI-Powered SaaS
-Data Structures & Algorithms
-Java
-Cybersecurity
-Software Engineering
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Agentic AI & RAG
+- 🔌 APIs & AI Integrations
+- ⚡ AI-Powered SaaS
+- 🐳 Docker & Deployment
+- 🔐 Cybersecurity
+- 💻 Data Structures & Algorithms
+- ☕ Java
 
 ---
+
+🎯 2026 Goals
+
+- 🚀 Build practical AI-powered applications
+- 🤖 Develop Agentic AI projects
+- 🏥 Expand MedTech Nexus
+- 💻 Strengthen Software Engineering skills
+- 🔐 Continue developing cybersecurity skills
+- 🌐 Build and deploy real-world projects
 
 🎯 My Vision
 
