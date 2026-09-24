@@ -1,6 +1,8 @@
 👋 Hi, I'm Abu Hurera
 
-💻 Software Engineering Student | 🤖 AI/ML & Agentic AI Enthusiast | 🚀 Future Software Engineer
+💻 Software Engineering | 🤖 AI/ML & Agentic AI | 🚀 Technology Builder
+
+Building intelligent software solutions at the intersection of AI, Software Engineering, and real-world innovation.
 
 I’m a Software Engineering student passionate about Artificial Intelligence, Agentic AI, intelligent systems, and modern software development.
 
