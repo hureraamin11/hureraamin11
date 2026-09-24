@@ -105,12 +105,8 @@ My goal is to become a highly skilled Software Engineer and AI-focused technolog
 
 💼 LinkedIn: "Abu Hurera — MedTech Nexus" (https://www.linkedin.com/in/abuhurera-medtech-nexus)
 
+🏥 MedTech Nexus: "GitHub Repository" (https://github.com/hureraamin11/medtech-nexus)
+
+📂 GitHub: "@hureraamin11" (https://github.com/hureraamin11)
+
 🌐 Portfolio: Coming Soon
-
-🏥 MedTech Nexus: Coming Soon
-
----
-
-⭐ Thanks for visiting my profile!
-
-If you find my projects interesting, feel free to explore my repositories and follow my journey.
